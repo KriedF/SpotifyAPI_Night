@@ -1,0 +1,4 @@
+# user_config.yml
+
+user:
+  scope: 'user-library-read user-read-recently-played'

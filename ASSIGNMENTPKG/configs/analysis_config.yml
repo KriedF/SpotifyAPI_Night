@@ -1,0 +1,5 @@
+# Analysis_config.yml
+
+analysis:
+  time_range: 'short_term'  # Options: 'short_term', 'medium_term', 'long_term'
+  track_limit: 5
