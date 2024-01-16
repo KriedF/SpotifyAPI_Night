@@ -1,6 +1,6 @@
 # system_config.yml
 
 spotify_api:
-CLIENT_ID = 'c3b32626d5784dd6ad5ce88a806602ce'
-CLIENT_SECRET = '6ee48f71e17542348b6dae531e6db63d'
+CLIENT_ID = 'Your-Client-ID'
+CLIENT_SECRET = 'Your-Client-Secret'
 REDIRECT_URI = 'http://localhost:8088/callback'
